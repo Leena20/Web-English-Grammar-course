@@ -1,8 +1,11 @@
 #  English Grammar Course Website
 ### By Leena AlQasem
 
-## Intorduction 
+## Intorduction: 
+This project aims to build an educational website. English grammar course website includes lessons and quizzes using HTML, CSS, JS, PHP, and phpMyAdmin. 
 
 
-## Requierments 
+## Table of content: 
+
+
 
