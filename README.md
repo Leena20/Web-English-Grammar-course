@@ -7,5 +7,11 @@ This project aims to build an educational website. English grammar course websit
 
 ## Table of content: 
 
-
-
+- Style 
+- Result
+- Register 
+- Quiz
+- Lesson
+- Index
+- Home
+- Database connection
